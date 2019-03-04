@@ -59,7 +59,7 @@ module.exports = class Dashboard extends Plugin {
         importFrom: 'Import from %{name}',
         addingMoreFiles: 'Adding more files',
         addMoreFiles: 'Add more files',
-        dashboardWindowTitle: 'Uppy Dashboard Window (Press escape to close)', 
+        dashboardWindowTitle: 'Uppy Dashboard Window (Press escape to close)',
         dashboardTitle: 'Uppy Dashboard',
         copyLinkToClipboardSuccess: 'Link copied to clipboard',
         copyLinkToClipboardFallback: 'Copy the URL below',
