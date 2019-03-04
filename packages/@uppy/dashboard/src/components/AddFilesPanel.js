@@ -2,6 +2,9 @@ const { h } = require('preact')
 const AddFiles = require('./AddFiles')
 
 const AddFilesPanel = (props) => {
+  console.log(props, {
+    i18n: props.i18n('back')
+  })
   return (
     <div class="uppy-Dashboard-AddFilesPanel"
       data-uppy-panelType="AddFiles"

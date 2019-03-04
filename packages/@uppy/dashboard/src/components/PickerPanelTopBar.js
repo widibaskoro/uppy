@@ -74,7 +74,7 @@ function PanelTopBar (props) {
   if (allowNewUpload && props.maxNumberOfFiles) {
     allowNewUpload = props.totalFileCount < props.maxNumberOfFiles
   }
-
+  console.log(props)
   return (
     <div class="uppy-DashboardContent-bar">
       <div>

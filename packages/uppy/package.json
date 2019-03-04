@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transloadit/uppy.git"
+    "url": "git+https://github.com/widibaskoro/uppy.git"
   },
   "dependencies": {
     "@uppy/aws-s3": "^0.30.2",
